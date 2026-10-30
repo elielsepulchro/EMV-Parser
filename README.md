@@ -4,7 +4,7 @@ Uma ferramenta leve, em arquivo único (`index.html`), projetada para decodifica
 
 ## 🚀 Funcionalidades
 - Decodificação automática de tags EMV-QRCode por autoridades certificadoras.
-- Suporte para payloads, bem como funcionalidade dinâmica de "copiar e colar".
+- Suporte para payloads.
 - Interface responsiva em dark Mode com tailwind CSS.
 - Zero dependências de backend (roda inteiramente no navegador).
 
