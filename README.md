@@ -1,4 +1,4 @@
-# PaymentBridge EMV Parser & Dashboard (Open-Source)
+# EMV Parser (Open-Source)
 
 Uma ferramenta leve, em arquivo único (`index.html`), projetada para decodificar e analisar payloads EMV, tanto estáticos quanto dinâmicos (suportando gateways como dLocal, etc.).
 
